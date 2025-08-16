@@ -34,8 +34,7 @@ Open in browser: https://rick-and-morty-react-production.up.railway.app/
 
 Author
 
-🚀 IT-Incubator
-MIT 2025 © Nextra
+🚀 A.Simchera
 
 Čeština
 
